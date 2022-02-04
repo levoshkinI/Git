@@ -1,5 +1,5 @@
 <?php 
-	class Category implements Model
+	class ModelCategory implements Model
 	{
 		public function __construct($pdo)
         {
